@@ -1,0 +1,61 @@
+
+
+/******************Tag Selectors******************/
+
+body {
+  background-color: #E5D549;
+}
+
+
+
+
+
+img:hover {
+  background-color: gold;
+  width: 350px;
+  height: 300px;
+}
+
+
+
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: grey;
+  border-width: 5px;
+  width: 5%;
+}
+
+h1 {
+  color: grey;
+}
+
+h3 {
+  color: grey;
+}
+
+/******************Class Selectors******************/
+
+.Quran {
+  background-color: grey;
+  width: 350px;
+  height: 300px;
+}
+
+.Flower {
+  background-color: green;
+  width: 350px;
+  height: 300px;
+}
+
+.Circular {
+
+  border-radius: 100%;
+}
+
+/******************ID Selectors******************/
+
+#heading{
+  color: red;
+}
